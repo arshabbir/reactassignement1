@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.para {
+  color : lightgreen;
+  font-weight: 1000;
+  
+}
